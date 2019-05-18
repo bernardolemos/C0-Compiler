@@ -1,0 +1,16 @@
+image:
+  - Visual Studio 2017
+  - Visual Studio 2015
+
+install:
+  - choco install winflexbison3
+  - win_flex --version
+  - win_bison --version
+
+build_script:
+  - mkdir build && cd build
+  - cmake ..
+  - cmake --build . --config Release
+
+test_script:
+  - ctest -VV
