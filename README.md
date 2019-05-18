@@ -15,8 +15,8 @@
 
 ## Authors
 
-- Bernardo Lemos - [Bernardo de Lemos](https://github.com/bernardolemos)
-- Raul Ferreira - [Zialus](https://github.com/zialus)
+- Bernardo de Lemos - [bernardolemos](https://github.com/bernardolemos)
+- Raul Ferreira - [zialus](https://github.com/zialus)
 
 ## Status
 ![Language][language-badge]
