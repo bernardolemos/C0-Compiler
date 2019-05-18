@@ -1,5 +1,5 @@
 # C-C0Compiler
-### C0 compiler implementation in C
+### C0 compiler implemented in C
 
 ## Requirements
 
